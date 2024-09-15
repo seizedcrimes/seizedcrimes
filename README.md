@@ -1,8 +1,8 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 ```python
-    from usdfelony import hateskidz.lol
-    stop skidding lmao
+    from seized import venom
+    
 ```
 
 
